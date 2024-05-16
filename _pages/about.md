@@ -119,6 +119,17 @@ _ACM Transactions on Multimedia Computing, Communications, and Applications (**T
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2023</div><img src='images/drnet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DR-Net: Multi-View Face Synthesis by Dual Representation]((https://dl.acm.org/doi/abs/10.1145/3651311))
+
+Xianliang Huang, Yining Lang, **<u>Ying Guo</u>**, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou
+
+_ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2024_
+
+📃[**Paper**](https://dl.acm.org/doi/abs/10.1145/3651311)
+</div>
+</div>
 
 
 
