@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]((https://arxiv.org/abs/2403.00274))
 
-Xi liu<sup>#</sup>, <u>**Ying Guo<sup>\#+</sup>**</u>, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
+Xi liu<sup>#</sup>, **<u>Ying Guo<sup>\#+</sup></u>**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
@@ -45,7 +45,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 <div class='paper-box-text' markdown="1">
 [Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728)) (Valse2022 Spotlight)
 
-Xingxing Wei (Supervisor), **Ying Guo**, and Jie Yu
+Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, and Jie Yu
 
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
 
