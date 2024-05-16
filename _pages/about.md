@@ -107,6 +107,19 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2020</div><img src='images/attribute.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Black-box adversarial attacks by manipulating image attributes]((https://www.sciencedirect.com/science/article/abs/pii/S0020025520310239))
+
+Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, Bo Li 
+
+_Information Sciences (**INS**), 2020_
+
+📃[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0020025520310239) 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2021</div><img src='images/r-dti-fgsm.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving adversarial transferability with gradient refining]((https://arxiv.org/abs/2105.04834))
@@ -151,13 +164,13 @@ _ACM Transactions on Multimedia Computing, Communications, and Applications (**T
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2023</div><img src='images/drnet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DR-Net: Multi-View Face Synthesis by Dual Representation]((https://dl.acm.org/doi/abs/10.1145/3651311))
+[DR-Net: Multi-View Face Synthesis by Dual Representation]((https://ieeexplore.ieee.org/abstract/document/10219741))
 
 Xianliang Huang, Yining Lang, **<u>Ying Guo</u>**, Yuan He, Hui Xue, Li Zhao, Shuigeng Zhou
 
-_ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2024_
+_IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 
-📃[**Paper**](https://dl.acm.org/doi/abs/10.1145/3651311)
+📃[**Paper**](https://ieeexplore.ieee.org/abstract/document/10219741)
 </div>
 </div>
 
