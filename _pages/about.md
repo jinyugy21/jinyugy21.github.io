@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]((https://arxiv.org/abs/2403.00274))
 
-Xi liu<sup>#</sup>, **<u>Ying Guo<sup>\#+</sup></u>**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
+Xi liu<sup>#</sup>, **<u>Ying Guo<sup>#+</sup></u>**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
@@ -41,7 +41,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/customlistener.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728)) (Valse2022 Spotlight)
 
@@ -49,7 +49,19 @@ Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, and Jie Yu
 
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
 
-💾[**Homapage**](https://customlistener.github.io/) 📃[**Paper**](https://arxiv.org/pdf/2104.06728)
+📃[**Paper**](https://arxiv.org/pdf/2104.06728) 💾[**VALSE**](https://mp.weixin.qq.com/s/fRRpQuV3fB9s0IEVacnkmQ) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022_arxiv</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Meaningful adversarial stickers for face recognition in physical world]((https://arxiv.org/abs/2104.06728v1))
+
+**<u>Ying Guo</u>**, Xingxing Wei, Guoqiu Wang, Bo Zhang
+
+_arXiv preprint. Full version accepted by **TPAMI** 2022_
+
+📃[**Paper**](https://arxiv.org/pdf/2104.06728v1) 
 </div>
 </div>
 
