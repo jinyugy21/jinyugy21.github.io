@@ -30,16 +30,17 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/customlistener.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2403.00274))
+[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]((https://arxiv.org/abs/2403.00274))
 
-Xi liu^*^, **Ying Guo^*#^**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
+Xi liu<sup>*</sup>, **Ying Guo<sup>\*#</sup>**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
+
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024_
+
+(* denotes equal contribution; # indicates project manager) 
 
 💾[**Homapage**](https://customlistener.github.io/) 📃[**Paper**](https://arxiv.org/pdf/2403.00274)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
