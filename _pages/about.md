@@ -32,9 +32,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2403.00274))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xi liu^*^, **Ying Guo^*#^**, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+💾[**Homapage**](https://customlistener.github.io/) 📃[**Paper**](https://arxiv.org/pdf/2403.00274)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
