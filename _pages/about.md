@@ -27,6 +27,31 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728)) (Valse2022 Spotlight)
+
+Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, and Jie Yu
+
+_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
+
+📃[**Paper**](https://arxiv.org/pdf/2104.06728) 💾[**Code**](https://github.com/jinyugy21/Adv-Stickers_RHDE) 💾[**VALSE**](https://mp.weixin.qq.com/s/fRRpQuV3fB9s0IEVacnkmQ) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/rl_sticker.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks]((https://arxiv.org/abs/2212.12995))
+
+Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, Jie Yu, Bo Zhang
+
+_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
+
+📃[**Paper**](https://arxiv.org/pdf/2212.12995) 💾[**Code**](https://github.com/shighghyujie/newpatch-rl) 💾[**CSIG**](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/customlistener.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation]((https://arxiv.org/abs/2403.00274))
@@ -41,17 +66,20 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker.png' alt="sym" width="80%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/guidespace.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728)) (Valse2022 Spotlight)
+[Controllable Guide-Space for Generalizable Face Forgery Detection]((https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.html))
 
-Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, and Jie Yu
+**<u>Ying Guo</u>**, Cheng Zhen, Pengfei Yan
 
-_IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
+_International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 
-📃[**Paper**](https://arxiv.org/pdf/2104.06728) 💾[**VALSE**](https://mp.weixin.qq.com/s/fRRpQuV3fB9s0IEVacnkmQ) 
+📃[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.html)
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022_arxiv</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +92,9 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 📃[**Paper**](https://arxiv.org/pdf/2104.06728v1) 
 </div>
 </div>
+
+
+
 
 
 # 🎖 Honors and Awards
