@@ -27,15 +27,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728)) (Valse2022 Spotlight)
+[Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728))
 
 Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, and Jie Yu
 
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
 
-📃[**Paper**](https://arxiv.org/pdf/2104.06728) 💾[**Code**](https://github.com/jinyugy21/Adv-Stickers_RHDE) 💾[**VALSE**](https://mp.weixin.qq.com/s/fRRpQuV3fB9s0IEVacnkmQ) 
+📃[**Paper**](https://arxiv.org/pdf/2104.06728)     💾[**Code**](https://github.com/jinyugy21/Adv-Stickers_RHDE)     💾[**VALSE**](https://mp.weixin.qq.com/s/fRRpQuV3fB9s0IEVacnkmQ) (<span style="color:red;">Valse2022 Spotlight</span>)
 </div>
 </div>
 
@@ -47,7 +47,7 @@ Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, Jie Yu, Bo Zhang
 
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
 
-📃[**Paper**](https://arxiv.org/pdf/2212.12995) 💾[**Code**](https://github.com/shighghyujie/newpatch-rl) 💾[**CSIG**](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
+📃[**Paper**](https://arxiv.org/pdf/2212.12995)     💾[**Code**](https://github.com/shighghyujie/newpatch-rl)     💾[**CSIG**](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
 </div>
 </div>
 
@@ -62,7 +62,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 
 (# denotes equal contribution; + indicates project manager)
 
-💾[**Homapage**](https://customlistener.github.io/) 📃[**Paper**](https://arxiv.org/pdf/2403.00274)
+💾[**Homapage**](https://customlistener.github.io/)     📃[**Paper**](https://arxiv.org/pdf/2403.00274)
 </div>
 </div>
 
