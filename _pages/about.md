@@ -79,7 +79,7 @@ _International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/guidespace.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/sf_deepfake.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [More generalized DFD: Model matters, so does data representation]((https://arxiv.org/pdf/2207.13505))
 
@@ -88,6 +88,8 @@ _International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 _IEEE Computer Society Workshop on Biometrics at **CVPR**, 2022_
 
 📃[**Paper**](https://arxiv.org/pdf/2207.13505)
+
+- Won the 3-rd place in Multi-Forgery Detection Challenge held in CVPR 2022.
 </div>
 </div>
 
@@ -105,6 +107,21 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2021</div><img src='images/r-dti-fgsm.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving adversarial transferability with gradient refining]((https://arxiv.org/abs/2105.04834))
+
+Guoqiu Wang<sup>#</sup>, Huanqian Yan<sup>#</sup>, **<u>Ying Guo</u><sup>#</sup>**, Xingxing Wei
+
+_Adversarial Machine Learning Workshop at **CVPR**, 2021_
+
+📃[**Paper**](https://arxiv.org/pdf/2105.04834)
+
+- Won the 2-nd place in attack success rates in Unrestricted Adversarial Attacks Challenge held in CVPR 2021.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/avs.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,6 +132,7 @@ Qi Yang, Xing Nie, Tong Li, Pengfei Gao, **<u>Ying Guo</u>**, Cheng Zhen, Pengfe
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
 📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Homapage**](https://yannqi.github.io/AVS-COMBO/)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
+
 </div>
 </div>
 
