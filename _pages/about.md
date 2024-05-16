@@ -62,7 +62,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 
 (# denotes equal contribution; + indicates project manager)
 
-💾[**Homapage**](https://customlistener.github.io/)     📃[**Paper**](https://arxiv.org/pdf/2403.00274)
+📃[**Paper**](https://arxiv.org/pdf/2403.00274)     💾[**Homapage**](https://customlistener.github.io/)
 </div>
 </div>
 
@@ -79,6 +79,17 @@ _International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/guidespace.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[More generalized DFD: Model matters, so does data representation]((https://arxiv.org/pdf/2207.13505))
+
+**<u>Ying Guo</u>**, Yingying Ao, Pengfei Gao
+
+_IEEE Computer Society Workshop on Biometrics at **CVPR**, 2022_
+
+📃[**Paper**](https://arxiv.org/pdf/2207.13505)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022_arxiv</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
@@ -94,6 +105,7 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/avs.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation]((https://arxiv.org/abs/2312.06462))
@@ -102,7 +114,7 @@ Qi Yang, Xing Nie, Tong Li, Pengfei Gao, **<u>Ying Guo</u>**, Cheng Zhen, Pengfe
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
-💾[**Homapage**](https://yannqi.github.io/AVS-COMBO/)     📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
+📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Homapage**](https://yannqi.github.io/AVS-COMBO/)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
 </div>
 </div>
 
