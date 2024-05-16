@@ -16,9 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Algorithm Engineer in the Vision AI Department, Meituan. Before that, I received my M.S. degree from the School of Computer Science and Engineering, Beihang University in 2022, supervised by Prof. [**Xingxing Wei**](https://sites.google.com/site/xingxingwei1988/) and Prof. [**Bo Li**](https://scse.buaa.edu.cn/info/1078/5211.htm).
+I obtained my B.E. degree from the School of Computer Science at Xidian University in 2019, ranking first among 600 students.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I was a research intern from June, 2021 to September, 2021 in the [TAJI](https://yc.alibaba.com/taji#/home) team of Alibaba Security Department, advised by [Yining Lang](https://scholar.google.com/citations?user=b8grj9MAAAAJ), [Dr. Yuan He](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN), and [Dr. Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en). From August, 2020 to June, 2021, I was the project student leader of [Rhinoceros Bird Project](https://ur.tencent.com/talent/program) of Tencent.
+
+My research interests are primarily on face video generation, deepfake detection, and adversarial machine learning (especially real-world physical attacks on face recognition). Recently, I work on the application of video generation in the field of portraits, including but not limited to img2video, 2D head generation, face animation, face swapping, and Sync-lip generation.
 
 
 # 🔥 News
