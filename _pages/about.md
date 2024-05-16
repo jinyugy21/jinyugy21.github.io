@@ -94,6 +94,33 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/avs.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation]((https://arxiv.org/abs/2312.06462))
+
+Qi Yang, Xing Nie, Tong Li, Pengfei Gao, **<u>Ying Guo</u>**, Cheng Zhen, Pengfei Yan, Shiming Xiang
+
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
+
+💾[**Homapage**](https://yannqi.github.io/AVS-COMBO/)     📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2024</div><img src='images/hanqin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Audio-Visual Contrastive Pre-train for Face Forgery Detection]((https://dl.acm.org/doi/abs/10.1145/3651311))
+
+Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Weiming Zhang, **<u>Ying Guo</u>**, Zhen Cheng, Pengfei Yan, Nenghai Yu
+
+_ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**), 2024_
+
+📃[**Paper**](https://dl.acm.org/doi/abs/10.1145/3651311)
+</div>
+</div>
+
+
+
 
 
 
