@@ -19,13 +19,16 @@ redirect_from:
 I am an Algorithm Engineer in the Vision AI Department, Meituan. Before that, I received my M.S. degree from the School of Computer Science and Engineering, Beihang University in 2022, supervised by Prof. [**Xingxing Wei**](https://sites.google.com/site/xingxingwei1988/) and Prof. [**Bo Li**](https://scse.buaa.edu.cn/info/1078/5211.htm).
 I obtained my B.E. degree from the School of Computer Science at Xidian University in 2019, ranking first among 600 students.
 
+<div style="display:none">
 I was a research intern from June, 2021 to September, 2021 in the [TAJI](https://yc.alibaba.com/taji#/home) team of Alibaba Security Department, advised by [Yining Lang](https://scholar.google.com/citations?user=b8grj9MAAAAJ), [Dr. Yuan He](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN), and [Dr. Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en). From August, 2020 to June, 2021, I was the project student leader of [Rhinoceros Bird Project](https://ur.tencent.com/talent/program) of Tencent.
+</div>
 
 My research interests are primarily on face video generation, deepfake detection, and adversarial machine learning (especially real-world physical attacks on face recognition). Recently, I work on the application of video generation in the field of portraits, including but not limited to img2video, 2D head generation, face animation, face swapping, and Sync-lip generation.
 
 # 💻 Working Experience
 - *2022.03 - present*, Algorithm Engineer @ Vision AI Department, [Meituan](https://www.meituan.com/). 
-- *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba.
+- *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba. \\
+  advised by [Yining Lang](https://scholar.google.com/citations?user=b8grj9MAAAAJ), Dr. [Yuan He](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN), and Dr. [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en).
 - *2020.08 - 2021.06*, Project Student Leader @ Blade team, TEG, [Tencent](https://www.tencent.com/en-us/about.html). \\
    [Rhinoceros Bird Project](https://ur.tencent.com/talent/program), the project theme is analysis of face verification security.
 
@@ -108,7 +111,7 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 
 **<u>Ying Guo</u>**, Yingying Ao, Pengfei Gao
 
-_IEEE Computer Society workshop on Biometrics @ **CVPR**, 2022_
+_IEEE Computer Society workshop on Biometrics at **CVPR**, 2022_
 
 📃[**Paper**](https://arxiv.org/pdf/2207.13505)
 
@@ -137,7 +140,7 @@ _Information Sciences (**INS**), 2020_
 
 Guoqiu Wang<sup>#</sup>, Huanqian Yan<sup>#</sup>, **<u>Ying Guo</u><sup>#</sup>**, Xingxing Wei
 
-_Adversarial Machine Learning workshop on Unrestricted Adversarial Attacks @ **CVPR**, 2021_
+_Adversarial Machine Learning workshop on unrestricted attacks at **CVPR**, 2021_
 
 📃[**Paper**](https://arxiv.org/pdf/2105.04834)
 
@@ -184,8 +187,6 @@ _IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 📃[**Paper**](https://ieeexplore.ieee.org/abstract/document/10219741)
 </div>
 </div>
-
-
 
 
 
