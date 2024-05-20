@@ -25,7 +25,7 @@ I was a research intern from June, 2021 to September, 2021 in the [TAJI](https:/
 
 My research interests are primarily on face video generation, deepfake detection, and adversarial machine learning (especially real-world physical attacks on face recognition). Recently, I work on the application of video generation in the field of portraits, including but not limited to img2video, 2D head generation, face animation, face swapping, and Sync-lip generation.
 
-# 💻 Working Experience
+# 💻 Experience
 - *2022.03 - present*, Algorithm Engineer @ Vision AI Department, [Meituan](https://www.meituan.com/). 
 - *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba. \\
   advised by [Yining Lang](https://scholar.google.com/citations?user=b8grj9MAAAAJ), Dr. [Yuan He](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN), and Dr. [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en).
@@ -38,7 +38,6 @@ My research interests are primarily on face video generation, deepfake detection
 - *2023.07*: &nbsp;🎉🎉 One paper on deepfake detection is accepted to ICCV 2023. 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/advsticker2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Adversarial sticker: A stealthy attack method in the physical world]((https://arxiv.org/abs/2104.06728))
@@ -191,16 +190,17 @@ _IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- China National Scholarship $\times3$, 2016, 2017, 2018.
+- Beijing Outstanding Graduates, 2022.
+- Shenzhen Stock Exchange Scholarship, 2021.
+- First-class scholarship for Beihang graduate students, 2021.
+- Three Outstanding Students of Beihang University, 2021.
+- Outstanding Graduate Student of Beihang University, 2020.
+- Meritorious Winners of The Interdisciplinary Contest in Modeling (ICM). 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Services and Invited Talks
+**Reviewer** for: CVPR, TMM, IJCAI, ect.
+**Talks**:
+- *2023.03*, CSIG (中国图象图形学学会). [page](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
+- *2022.09*, VALSE - Paper quick overview. [video](https://www.bilibili.com/video/BV1Vd4y167cA/)
