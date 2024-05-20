@@ -91,7 +91,7 @@ _International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022_arxiv</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022, arxiv version</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Meaningful adversarial stickers for face recognition in physical world]((https://arxiv.org/abs/2104.06728v1))
 
