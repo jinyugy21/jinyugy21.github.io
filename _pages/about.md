@@ -24,14 +24,15 @@ I was a research intern from June, 2021 to September, 2021 in the [TAJI](https:/
 My research interests are primarily on face video generation, deepfake detection, and adversarial machine learning (especially real-world physical attacks on face recognition). Recently, I work on the application of video generation in the field of portraits, including but not limited to img2video, 2D head generation, face animation, face swapping, and Sync-lip generation.
 
 # 💻 Working Experience
-- *2022.03 - present*, Algorithm Engineer @ Vision AI Department, [Meituan](https://www.meituan.com/) <img src='./images/meituan-32x32.png'>. 
-- *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba <img src='./images/alibaba.png' style='width: 6em;'>.
-- *2020.08 - 2021.06*, Project Student Leader @ Blade team, TEG, [Tencent](https://www.tencent.com/en-us/about.html) <img src='./images/tencent.png' style='width: 6em;'>. \\
+- *2022.03 - present*, Algorithm Engineer @ Vision AI Department, [Meituan](https://www.meituan.com/). 
+- *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba.
+- *2020.08 - 2021.06*, Project Student Leader @ Blade team, TEG, [Tencent](https://www.tencent.com/en-us/about.html). \\
    [Rhinoceros Bird Project](https://ur.tencent.com/talent/program), the project theme is analysis of face verification security.
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2024. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 Two papers on Head Generation and Audio-Visual Segmentation are accepted to CVPR 2024.
+- *2023.11*: I will serve as a reviewer for CVPR 2024.
+- *2023.07*: &nbsp;🎉🎉 One paper on deepfake detection is accepted to ICCV 2023. 
 
 # 📝 Publications 
 
@@ -87,20 +88,6 @@ _International Conference on Computer Vision (**ICCV**), Paris, France, 2023_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/sf_deepfake.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-[More generalized DFD: Model matters, so does data representation]((https://arxiv.org/pdf/2207.13505))
-
-**<u>Ying Guo</u>**, Yingying Ao, Pengfei Gao
-
-_IEEE Computer Society Workshop on Biometrics at **CVPR**, 2022_
-
-📃[**Paper**](https://arxiv.org/pdf/2207.13505)
-
-- Won the 3-rd place in Multi-Forgery Detection Challenge held in CVPR 2022.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022_arxiv</div><img src='images/meaningful_sticker.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,6 +100,22 @@ _arXiv preprint. Full version accepted by **TPAMI** 2022_
 📃[**Paper**](https://arxiv.org/pdf/2104.06728v1) 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/sf_deepfake.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[More generalized DFD: Model matters, so does data representation]((https://arxiv.org/pdf/2207.13505))
+
+**<u>Ying Guo</u>**, Yingying Ao, Pengfei Gao
+
+_IEEE Computer Society workshop on Biometrics @ **CVPR**, 2022_
+
+📃[**Paper**](https://arxiv.org/pdf/2207.13505)
+
+- Won the 3-rd place in Multi-Forgery Detection Challenge held in CVPR 2022.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2020</div><img src='images/attribute.png' alt="sym" width="80%"></div></div>
@@ -134,7 +137,7 @@ _Information Sciences (**INS**), 2020_
 
 Guoqiu Wang<sup>#</sup>, Huanqian Yan<sup>#</sup>, **<u>Ying Guo</u><sup>#</sup>**, Xingxing Wei
 
-_Adversarial Machine Learning Workshop at **CVPR**, 2021_
+_Adversarial Machine Learning workshop on Unrestricted Adversarial Attacks @ **CVPR**, 2021_
 
 📃[**Paper**](https://arxiv.org/pdf/2105.04834)
 
