@@ -200,7 +200,7 @@ _IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 
 
 # 💬 Services and Invited Talks
-**Reviewer** for: CVPR, TMM, IJCAI, ect.
+**Reviewer** for: CVPR, TMM, IJCAI, etc.
 
 **Talks**:
 - *2023.03*, CSIG (中国图象图形学学会). [page](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
