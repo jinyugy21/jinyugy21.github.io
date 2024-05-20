@@ -24,14 +24,14 @@ I was a research intern from June, 2021 to September, 2021 in the [TAJI](https:/
 My research interests are primarily on face video generation, deepfake detection, and adversarial machine learning (especially real-world physical attacks on face recognition). Recently, I work on the application of video generation in the field of portraits, including but not limited to img2video, 2D head generation, face animation, face swapping, and Sync-lip generation.
 
 # 💻 Working Experience
-- *2022.03 - present*, Algorithm Engineer @ [Vision AI Department, Meituan](https://www.meituan.com/) <img src='./images/meituan-32x32.png' style='width: 6em;'>. 
-- *2021.06 - 2021.09*, Research Intern @ [TAJI team, Alibaba Security Department](https://yc.alibaba.com/taji#/home) <img src='./images/alibaba.png' style='width: 6em;'>.
-- *2020.08 - 2021.06*, Project Student Leader @ [Blade team, TEG, Tencent](https://www.tencent.com/en-us/about.html) <img src='./images/tencent.png' style='width: 6em;'>. \\
+- *2022.03 - present*, Algorithm Engineer @ Vision AI Department, [Meituan](https://www.meituan.com/) <img src='./images/meituan-32x32.png'>. 
+- *2021.06 - 2021.09*, Research Intern @ [TAJI team](https://yc.alibaba.com/taji#/home), Security Department, Alibaba <img src='./images/alibaba.png' style='width: 6em;'>.
+- *2020.08 - 2021.06*, Project Student Leader @ Blade team, TEG, [Tencent](https://www.tencent.com/en-us/about.html) <img src='./images/tencent.png' style='width: 6em;'>. \\
    [Rhinoceros Bird Project](https://ur.tencent.com/talent/program), the project theme is analysis of face verification security.
 
-%# 🔥 News
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2024. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
