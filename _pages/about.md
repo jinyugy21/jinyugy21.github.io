@@ -203,5 +203,6 @@ _IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 **Reviewer** for: CVPR, TMM, IJCAI, etc.
 
 **Talks**:
+- *2024.06*, CVPR分享会 (美团技术团队). [video](https://www.bilibili.com/video/BV15n4y1X7D2/?spm_id_from=333.999.0.0)
 - *2023.03*, CSIG (中国图象图形学学会). [page](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
 - *2022.09*, VALSE - Paper quick overview. [video](https://www.bilibili.com/video/BV1Vd4y167cA/)
