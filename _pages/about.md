@@ -71,7 +71,7 @@ Xi liu<sup>#</sup>, **<u>Ying Guo<sup>#+</sup></u>**, Cheng Zhen, Tong Li, Yingy
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
-(# denotes equal contribution; + indicates project manager)
+(# denotes equal contribution; + indicates leading the project)
 
 📃[**Paper**](https://arxiv.org/pdf/2403.00274)     💾[**Homapage**](https://customlistener.github.io/)
 </div>
