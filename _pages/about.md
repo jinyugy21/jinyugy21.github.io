@@ -175,6 +175,20 @@ _ACM Transactions on Multimedia Computing, Communications, and Applications (**T
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/drawaudio.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis]((https://arxiv.org/pdf/2409.06135))
+
+Qi Yang, Binjie Mao, Zili Wang, Xing Nie, Pengfei Gao, **<u>Ying Guo</u>**, Cheng Zhen, Pengfei Yan, Shiming Xiang
+
+_arxiv, 2024_
+
+📃[**Paper**](https://arxiv.org/pdf/2409.06135)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2023</div><img src='images/drnet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DR-Net: Multi-View Face Synthesis by Dual Representation]((https://ieeexplore.ieee.org/abstract/document/10219741))
@@ -200,7 +214,7 @@ _IEEE International Conference on Multimedia and Expo (**ICME**), 2023_
 
 
 # 💬 Services and Invited Talks
-**Reviewer** for: CVPR, TMM, IJCAI, etc.
+**Reviewer** for: CVPR, AAAI, TMM, IJCAI, etc.
 
 **Talks**:
 - *2024.06*, CVPR分享会 (美团技术团队). [video](https://www.bilibili.com/video/BV15n4y1X7D2/?spm_id_from=333.999.0.0)
