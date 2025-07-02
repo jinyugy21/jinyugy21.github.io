@@ -33,6 +33,7 @@ My research interests are primarily on face video generation, deepfake detection
    [Rhinoceros Bird Project](https://ur.tencent.com/talent/program), the project theme is analysis of face verification security.
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper on Real-time Interactive Head Generation is accepted to ICCV 2025.
 - *2024.03*: &nbsp;🎉🎉 Two papers on Head Generation and Audio-Visual Segmentation are accepted to CVPR 2024.
 - *2023.11*: I will serve as a reviewer for CVPR 2024.
 - *2023.07*: &nbsp;🎉🎉 One paper on deepfake detection is accepted to ICCV 2023. 
@@ -59,6 +60,20 @@ Xingxing Wei (Supervisor),  **<u>Ying Guo</u>**, Jie Yu, Bo Zhang
 _IEEE Transaction on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022_
 
 📃[**Paper**](https://arxiv.org/pdf/2212.12995)     💾[**Code**](https://github.com/shighghyujie/newpatch-rl)     💾[**CSIG**](https://mp.weixin.qq.com/s/wiag_5hhyfbAd19s6eXnSw)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pip7.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ARIG: Autoregressive Interactive Head Generation for Real-time Conversations]((https://arxiv.org/pdf/2507.00472))
+
+**<u>Ying Guo<sup>#+</sup></u>**, Xi liu<sup>#</sup>, Cheng Zhen, Pengfei Yan
+
+_International Conference on Computer Vision (**ICCV**), Honolulu, Hawai'i, 2025_
+
+(# denotes equal contribution; + indicates leading the project)
+
+📃[**Paper**](https://arxiv.org/pdf/2507.00472)     💾[**Homapage**](https://jinyugy21.github.io/ARIG/)
 </div>
 </div>
 
