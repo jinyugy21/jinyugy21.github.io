@@ -73,7 +73,7 @@ _International Conference on Computer Vision (**ICCV**), Honolulu, Hawai'i, 2025
 
 (# denotes equal contribution; + indicates leading the project)
 
-📃[**Paper**](https://arxiv.org/pdf/2507.00472)     💾[**Homapage**](https://jinyugy21.github.io/ARIG/)
+📃[**Paper**](https://arxiv.org/pdf/2507.00472)     💾[**Homepage**](https://jinyugy21.github.io/ARIG/)
 </div>
 </div>
 
@@ -88,7 +88,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seat
 
 (# denotes equal contribution; + indicates leading the project)
 
-📃[**Paper**](https://arxiv.org/pdf/2403.00274)     💾[**Homapage**](https://customlistener.github.io/)
+📃[**Paper**](https://arxiv.org/pdf/2403.00274)     💾[**Homepage**](https://customlistener.github.io/)
 </div>
 </div>
 
@@ -172,7 +172,7 @@ Qi Yang, Xing Nie, Tong Li, Pengfei Gao, **<u>Ying Guo</u>**, Cheng Zhen, Pengfe
 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024_
 
-📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Homapage**](https://yannqi.github.io/AVS-COMBO/)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
+📃[**Paper**](https://arxiv.org/pdf/2312.06462)     💾[**Homepage**](https://yannqi.github.io/AVS-COMBO/)     💾[**Code**](https://github.com/yannqi/COMBO-AVS) 
 
 </div>
 </div>
